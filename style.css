@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cards-data img{
+    width: 100%;
+    height: 200px;
+}
+.cards-data{
+    box-shadow: 1px 1px 5px 0px;
+}
